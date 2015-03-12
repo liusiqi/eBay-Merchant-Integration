@@ -1,0 +1,6 @@
+c:\users\bigrp17\documents\visual studio 2013\Projects\ebay0\ebay0\bin\ebay0.dll.config
+c:\users\bigrp17\documents\visual studio 2013\Projects\ebay0\ebay0\bin\ebay0.dll
+c:\users\bigrp17\documents\visual studio 2013\Projects\ebay0\ebay0\bin\ebay0.pdb
+c:\users\bigrp17\documents\visual studio 2013\Projects\ebay0\ebay0\obj\Debug\ebay0.csprojResolveAssemblyReference.cache
+c:\users\bigrp17\documents\visual studio 2013\Projects\ebay0\ebay0\obj\Debug\ebay0.dll
+c:\users\bigrp17\documents\visual studio 2013\Projects\ebay0\ebay0\obj\Debug\ebay0.pdb
